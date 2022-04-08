@@ -10,6 +10,7 @@ namespace tpmodul7_1302204092
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
